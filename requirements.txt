@@ -3,3 +3,4 @@ pylint
 uvicorn
 requests
 bs4
+pytest
